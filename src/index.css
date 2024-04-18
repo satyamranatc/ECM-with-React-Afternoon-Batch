@@ -1,0 +1,30 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body
+{
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+}
+
+
+button
+{
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background: teal;
+  color: white;
+
+  padding: 10px 20px;
+
+  border-radius: 20px;
+
+}
+
